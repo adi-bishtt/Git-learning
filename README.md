@@ -20,6 +20,7 @@ git push origin main
 # Check status
 git status
 🎯 Goals
+
 [x] Initial commit.
 
 [ ] Handle a merge conflict.
